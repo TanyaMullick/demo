@@ -1,4 +1,4 @@
 # demo
 This is my first Github Repository.
 <br>
-Author:Tanya Mullick
+Author-Tanya Mullick
